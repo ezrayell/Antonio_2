@@ -463,6 +463,10 @@
   margin: 10px auto 60px;
 }
 
+.u-section-4 .u-btn-1 {
+  background-image: none;
+}
+
 @media (max-width: 1199px) {
    .u-section-4 {
     min-height: 1463px;
@@ -470,6 +474,10 @@
 
   .u-section-4 .u-gallery-1 {
     height: 1281px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    padding: 0;
   }
 }
 
